@@ -1,0 +1,45 @@
+[
+    {
+        "title":"Introduction to Algorithms",
+        "author": "T H Cormen",
+        "available" : true,
+        "pages": 336,
+        "isbn" : 978124
+    },
+    
+    {
+        "title":"Programming in ANSI C",
+        "author": " E Balaguruswamy",
+        "available" : true,
+        "pages": 566,
+        "isbn" : 91284
+    },
+    {
+        "title":"Computer Organization",
+        "author": "Carl Hamacher",
+        "available" : true,
+        "pages": 336,
+        "isbn" : 978006
+    },
+    {
+        "title":"Data Communications and Networking",
+        "author": " Behrouz A. Forouzan",
+        "available" : true,
+        "pages": 336,
+        "isbn" : 90084
+    },
+    {
+        "title":"Operating System",
+        "author": "Abraham Silberschatz",
+        "available" : true,
+        "pages": 336,
+        "isbn" : 97814
+    },
+    {
+        "title":"Data Structure",
+        "author": " Seymour Lipschutz",
+        "available" :  false,
+        "pages": 4536,
+        "isbn" : 120084
+    }
+]
